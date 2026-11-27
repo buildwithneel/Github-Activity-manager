@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+
+# Testing & Linting
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local application data & secrets
+.env
+*.db
+*.sqlite
+*.log
+.credentials
+.github-activity-generator/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
