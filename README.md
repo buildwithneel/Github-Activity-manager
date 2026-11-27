@@ -1,4 +1,4 @@
-# GitHub Activity Generator
+# GitHub Activity Manager
 
 An interactive, local-first Python CLI for retrieving your GitHub contribution history, detecting empty days and weeks, simulating activity plans with strict protection for existing contributions, and performing safe, explicit, current-time Git operations.
 
@@ -111,4 +111,3 @@ pytest
 
 Licensed under the **Apache License, Version 2.0**. See [LICENSE](LICENSE).  
 Inspired by [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator).
-# Github-Activity-manager
