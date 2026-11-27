@@ -112,3 +112,4 @@ pytest
 Licensed under the **Apache License, Version 2.0**. See [LICENSE](LICENSE).  
 Inspired by [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator).
 # Github-Activity-manager
+# Github-Activity-manager
